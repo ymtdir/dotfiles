@@ -1,0 +1,8 @@
+font-size = 14
+theme = TokyoNight
+cursor-style = block
+maximize = true
+window-padding-balance = true
+window-save-state = always
+background-opacity = 0.70
+background-blur-radius = 20
