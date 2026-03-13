@@ -1,0 +1,63 @@
+{
+  // ============================================
+  // Theme
+  // ============================================
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.iconTheme": "material-icon-theme",
+
+  // ============================================
+  // Editor
+  // ============================================
+  "editor.tabSize": 2,
+  "editor.indentSize": "tabSize",
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+
+  // ============================================
+  // Prettier
+  // ============================================
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.semi": true,
+  "prettier.trailingComma": "es5",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.arrowParens": "always",
+
+  // ============================================
+  // Language
+  // ============================================
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.ruff": "explicit",
+      "source.fixAll.ruff": "explicit"
+    },
+    "editor.tabSize": 4
+  },
+
+  // ============================================
+  // Explorers
+  // ============================================
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  // ============================================
+  // Terminal
+  // ============================================
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.copyOnSelection": true,
+
+  // ============================================
+  // Claude Code
+  // ============================================
+  "claudeCode.preferredLocation": "sidebar",
+  "claudeCode.allowDangerouslySkipPermissions": false,
+  "claudeCode.initialPermissionMode": "default",
+
+  // ============================================
+  // Git
+  // ============================================
+  "diffEditor.codeLens": true
+}
