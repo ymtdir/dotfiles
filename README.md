@@ -38,3 +38,9 @@ ln -s ~/dotfiles/ghostty/config ~/Library/Application\ Support/com.mitchellh.gho
 ```bash
 ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
+
+## claude
+
+```bash
+ln -s ~/dotfiles/claude/settings.json ~/.claude/settings.json
+```
