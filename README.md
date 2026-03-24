@@ -43,4 +43,5 @@ ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/s
 
 ```bash
 ln -s ~/dotfiles/claude/settings.json ~/.claude/settings.json
+ln -s ~/dotfiles/claude/statusline.sh ~/.claude/statusline.sh
 ```
