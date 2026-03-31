@@ -26,6 +26,10 @@ allowed-tools: Read, Write
 
 **対象ファイル**: `docs/repository-structure.md`
 
+## 出力形式と参考資料
+
+詳細は `../shared/references/document-generation-guide.md` を参照。
+
 ## 出力先
 
 作成したリポジトリ構造定義書は以下に保存してください:

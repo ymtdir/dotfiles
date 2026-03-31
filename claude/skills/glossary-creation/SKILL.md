@@ -29,6 +29,10 @@ allowed-tools: Read, Write
 
 **対象ファイル**: `docs/glossary.md`
 
+## 出力形式と参考資料
+
+詳細は `../shared/references/document-generation-guide.md` を参照。
+
 ## 出力先
 
 作成した用語集は以下に保存してください:

@@ -29,6 +29,10 @@ allowed-tools: Read, Write, Edit
 
 **対象ファイル**: `docs/development-guidelines.md`
 
+## 出力形式と参考資料
+
+詳細は `../shared/references/document-generation-guide.md` を参照。
+
 ## 出力先
 
 作成した開発ガイドラインは以下に保存してください:

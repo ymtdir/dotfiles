@@ -26,6 +26,10 @@ allowed-tools: Read, Write
 
 **対象ファイル**: `docs/functional-design.md`
 
+## 出力形式と参考資料
+
+詳細は `../shared/references/document-generation-guide.md` を参照。
+
 ## 出力先
 
 作成した機能設計書は以下に保存してください:
