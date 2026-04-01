@@ -1,7 +1,6 @@
 ---
 name: prd-writing
 description: プロダクト要求定義書(PRD)を作成する。「PRDを作成」「プロダクト要求定義書」と言われた時、または/setup-projectのステップ1で使用。docs/ideas/を入力としdocs/product-requirements.mdに出力。
-allowed-tools: Read, Write
 ---
 
 # PRD作成スキル

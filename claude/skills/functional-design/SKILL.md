@@ -1,7 +1,6 @@
 ---
 name: functional-design
 description: 機能設計書を作成する。「機能設計書を作成」「functional design」と言われた時、または/setup-projectのステップ2で使用。PRDが前提。docs/functional-design.mdに出力。
-allowed-tools: Read, Write
 ---
 
 # 機能設計書作成スキル

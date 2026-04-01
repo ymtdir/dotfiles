@@ -1,7 +1,6 @@
 ---
 name: pr-creation
 description: 現在のブランチの変更からPull Requestを作成し自動レビューする。「PR作成」「/create-pr」「pull request」と言われた時、または実装完了後レビュー準備ができた時に使用。変更分析→テンプレート選択→PR作成→ラベル適用→自動レビュー。
-allowed-tools: Read, Write, Bash, Glob, mcp__github__*
 ---
 
 # Pull Request Creation スキル

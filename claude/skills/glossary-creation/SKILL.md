@@ -1,7 +1,6 @@
 ---
 name: glossary-creation
 description: プロジェクト用語集を作成する。「用語集」「glossary」と言われた時、または/setup-projectのステップ6で使用。docs/glossary.mdに出力。
-allowed-tools: Read, Write
 ---
 
 # 用語集作成スキル

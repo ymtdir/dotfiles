@@ -1,7 +1,6 @@
 ---
 name: development-guidelines
 description: 開発ガイドライン（コーディング規約・開発プロセス）を作成する。「開発ガイドライン」「コーディング規約」と言われた時、コード実装時の規約確認、または/setup-projectのステップ5で使用。docs/development-guidelines.mdに出力。
-allowed-tools: Read, Write, Edit
 ---
 
 # 開発ガイドラインスキル

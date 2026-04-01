@@ -1,7 +1,6 @@
 ---
 name: issue-tracking
 description: 開発中に発見した課題をGitHub Issueとして作成する。「Issue作成」「create issue」と言われた時、またはバグ・機能追加・リファクタリングの必要性が発見された時に使用。bug/enhancement/refactorに分類しラベルを適用。
-allowed-tools: Read, Write, Bash, Glob, mcp__github__*
 ---
 
 # Issue Tracking スキル

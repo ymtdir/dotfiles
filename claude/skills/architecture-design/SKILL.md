@@ -1,7 +1,6 @@
 ---
 name: architecture-design
 description: アーキテクチャ設計書を作成する。「アーキテクチャ設計」「技術仕様書」と言われた時、または/setup-projectのステップ3で使用。PRDと機能設計書が前提。docs/architecture.mdに出力。
-allowed-tools: Read, Write
 ---
 
 # アーキテクチャ設計スキル

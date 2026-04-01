@@ -1,7 +1,6 @@
 ---
 name: issue-resolution
 description: GitHub Issueをブランチ作成・ステアリング・原子的コミットで解決する。「Issueを解決」「/resolve-issue」と言われた時、またはIssue番号を指定された時に使用。ブランチ作成→ステアリング→タスク毎コミット→品質チェック。
-allowed-tools: Read, Write, Edit, Bash, Glob, Task, mcp__github__*
 ---
 
 # Issue Resolution スキル

@@ -1,7 +1,6 @@
 ---
 name: repository-structure
 description: リポジトリ構造定義書を作成する。「リポジトリ構造」「ディレクトリ構造」と言われた時、または/setup-projectのステップ4で使用。docs/repository-structure.mdに出力。
-allowed-tools: Read, Write
 ---
 
 # リポジトリ構造定義スキル

@@ -1,7 +1,6 @@
 ---
 name: steering
 description: ステアリングファイル(.steering/)による作業計画・実装追跡・振り返りを管理する。「作業計画」「ステアリング」「tasklist」と言われた時、/resolve-issueで実装計画を作成する時、またはSkill('steering')呼出時に使用。3モード: 計画(mode1)、実装(mode2)、振り返り(mode3)。
-allowed-tools: Read, Write
 ---
 
 # Steering スキル
