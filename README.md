@@ -11,9 +11,7 @@
 
 ### zsh
 
-```bash
-ln -s ~/dotfiles/zsh/.zshrc ~/.zshrc
-```
+[zsh/README.md](zsh/README.md) を参照してください。
 
 ### nvim
 
@@ -43,14 +41,4 @@ ln -s ~/dotfiles/ghostty/config ~/Library/Application\ Support/com.mitchellh.gho
 
 ```bash
 ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
-```
-
-### claude
-
-```bash
-ln -s ~/dotfiles/claude/settings.json ~/.claude/settings.json
-ln -s ~/dotfiles/claude/statusline.sh ~/.claude/statusline.sh
-ln -s ~/dotfiles/claude/agents ~/.claude/agents
-ln -s ~/dotfiles/claude/commands ~/.claude/commands
-ln -s ~/dotfiles/claude/skills ~/.claude/skills
 ```
