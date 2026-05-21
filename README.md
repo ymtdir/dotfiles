@@ -13,24 +13,6 @@
 
 [zsh/README.md](zsh/README.md) を参照してください。
 
-### nvim
-
-```bash
-ln -s ~/dotfiles/nvim ~/.config/nvim
-```
-
-### tmux
-
-```bash
-ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf
-```
-
-### bin
-
-```bash
-ln -s ~/dotfiles/bin ~/bin
-```
-
 ### ghostty
 
 ```bash
