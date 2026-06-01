@@ -2,8 +2,8 @@
   // ============================================
   // Theme
   // ============================================
-  "workbench.colorTheme": "One Dark Pro Flat",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "vscode-icons",
 
   // ============================================
   // Editor
@@ -62,5 +62,6 @@
   // ============================================
   "diffEditor.codeLens": true,
   "gitlens.ai.model": "vscode",
-  "gitlens.ai.vscode.model": "copilot:gpt-4.1"
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "workbench.settings.applyToAllProfiles": []
 }
