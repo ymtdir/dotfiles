@@ -18,12 +18,3 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ln -s ~/dotfiles/zsh/.zshrc ~/.zshrc
 ln -s ~/dotfiles/zsh/.p10k.zsh ~/.p10k.zsh
 ```
-
-## .zshenv
-
-環境変数（`PATH` や `GITHUB_TOKEN` など）は `.zshenv` に定義します。
-リポジトリには雛形として [.zshenv.example](.zshenv.example) を置いているので、コピーして利用してください。
-
-```bash
-cp ~/dotfiles/zsh/.zshenv.example ~/.zshenv
-```
