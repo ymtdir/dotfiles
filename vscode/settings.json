@@ -1,22 +1,24 @@
 {
-  // ============================================
   // Theme
-  // ============================================
   "workbench.colorTheme": "GitHub Dark Dimmed",
   "workbench.iconTheme": "vscode-icons",
 
-  // ============================================
   // Editor
-  // ============================================
   "editor.tabSize": 2,
   "editor.indentSize": "tabSize",
   "editor.insertSpaces": true,
   "editor.formatOnSave": true,
   "editor.detectIndentation": false,
 
-  // ============================================
+  // Explorers
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  // Terminal
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.copyOnSelection": true,
+
   // Prettier
-  // ============================================
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.semi": true,
   "prettier.trailingComma": "es5",
@@ -26,9 +28,7 @@
   "prettier.arrowParens": "always",
   "prettier.proseWrap": "preserve",
 
-  // ============================================
-  // Language
-  // ============================================
+  // Python
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
@@ -38,30 +38,14 @@
     "editor.tabSize": 4
   },
 
-  // ============================================
-  // Explorers
-  // ============================================
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-
-  // ============================================
-  // Terminal
-  // ============================================
-  "terminal.integrated.defaultProfile.osx": "zsh",
-  "terminal.integrated.copyOnSelection": true,
-
-  // ============================================
   // Claude Code
-  // ============================================
   "claudeCode.preferredLocation": "sidebar",
   "claudeCode.allowDangerouslySkipPermissions": false,
   "claudeCode.initialPermissionMode": "default",
 
-  // ============================================
   // Git
-  // ============================================
   "diffEditor.codeLens": true,
-  "gitlens.ai.model": "vscode",
-  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
-  "workbench.settings.applyToAllProfiles": []
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    "日本語でコミットメッセージを作成し、Conventional Commits 形式を使ってください。"
+  ]
 }
