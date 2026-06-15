@@ -47,5 +47,6 @@
   "diffEditor.codeLens": true,
   "github.copilot.chat.commitMessageGeneration.instructions": [
     "日本語でコミットメッセージを作成し、Conventional Commits 形式を使ってください。"
-  ]
+  ],
+  "workbench.secondarySideBar.showLabels": false
 }
