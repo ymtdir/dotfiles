@@ -36,4 +36,6 @@ ln -s ~/dotfiles/agents ~/.agents
 ```bash
 ln -s ~/dotfiles/claude/rules ~/.claude/rules
 ln -s ~/dotfiles/claude/skills ~/.claude/skills
+ln -s ~/dotfiles/claude/settings.json ~/.claude/settings.json
+ln -s ~/dotfiles/claude/statusline.sh ~/.claude/statusline.sh
 ```
