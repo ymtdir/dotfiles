@@ -25,8 +25,8 @@ ln -s ~/dotfiles/ghostty/config ~/Library/Application\ Support/com.mitchellh.gho
 ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
 
-### nvim
+### agents
 
 ```bash
-ln -s ~/dotfiles/nvim ~/.config/nvim
+ln -s ~/dotfiles/agents ~/.agents
 ```
