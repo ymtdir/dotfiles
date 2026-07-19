@@ -31,11 +31,17 @@ ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/s
 ln -s ~/dotfiles/agents ~/.agents
 ```
 
+npx でインストールしたスキルの実体はここに置かれます。
+Claude Code は `~/.agents/skills` を読まないため、`~/.claude/skills` から直接リンクします。
+
+```bash
+ln -s ~/dotfiles/agents/skills ~/.claude/skills
+```
+
 ### claude
 
 ```bash
 ln -s ~/dotfiles/claude/rules ~/.claude/rules
-ln -s ~/dotfiles/claude/skills ~/.claude/skills
 ln -s ~/dotfiles/claude/settings.json ~/.claude/settings.json
 ln -s ~/dotfiles/claude/statusline.sh ~/.claude/statusline.sh
 ```
