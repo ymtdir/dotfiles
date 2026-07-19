@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "skills": {
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "skillFolderHash": "c817f6f36acd483294144694a935a76d3e3eb101",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-07-19T14:21:38.657Z",
+      "updatedAt": "2026-07-19T14:21:38.657Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-07-19T14:21:47.122Z",
+      "updatedAt": "2026-07-19T14:21:47.122Z"
+    },
+    "empirical-prompt-tuning": {
+      "source": "mizchi/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mizchi/skills.git",
+      "skillPath": "meta/empirical-prompt-tuning/SKILL.md",
+      "skillFolderHash": "84f108582bb31004a5fa6dfbfec4f93969a57d59",
+      "installedAt": "2026-07-19T14:24:20.768Z",
+      "updatedAt": "2026-07-19T14:24:20.768Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}
