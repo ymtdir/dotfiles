@@ -30,3 +30,10 @@ ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/s
 ```bash
 ln -s ~/dotfiles/agents ~/.agents
 ```
+
+### claude
+
+```bash
+ln -s ~/dotfiles/claude/rules ~/.claude/rules
+ln -s ~/dotfiles/claude/skills ~/.claude/skills
+```
